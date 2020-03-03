@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp2.2/LeetSpeak.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp2.2/LeetSpeak.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp2.2/LeetSpeak.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp2.2/LeetSpeak.Tests.AssemblyInfo.cs
